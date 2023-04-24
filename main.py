@@ -111,6 +111,6 @@ class WorkoutTracker:
 
 
 if __name__ == "__main__":
-    workout = workout_Tracker()
+    workout = WorkoutTracker()
 
 
